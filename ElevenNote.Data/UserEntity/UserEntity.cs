@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 
 
-    public class Entities
+    public class UserEntity
     {
         [Key]
         public int Id { get; set; } 
