@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
     public class UserEntity
     {
+        
         [Key]
         public int Id { get; set; } 
         [Required]
